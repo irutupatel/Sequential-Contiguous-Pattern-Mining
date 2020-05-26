@@ -29,8 +29,8 @@ The output are the **most frequent 20 patterns** you mined out from the input da
 
 Each line of the output should be in the format:
 
-    [Support frequent -pattern] 
-    [Support frequent -pattern] 
+    [Support frequent-pattern] 
+    [Support frequent-pattern] 
     ......
 Please refer to the sample input and output below.
 
