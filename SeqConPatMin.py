@@ -1,6 +1,5 @@
 # Hackerrank Sequential Contiguous Pattern Mining
-# CS 412 HW 2 Spring 2020
-# WORKING CODE using dictionary
+# Using dictionary
 
 # Minimum length is 2, maximum length is 5, and minimum support is 2.
 # That is, the patterns have to contain at least two words, but no more than 5.
